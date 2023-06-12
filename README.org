@@ -1,0 +1,10 @@
+* diff-match-patch
+
+A Common Lisp port of Neil Fraser's library of the same name
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/agrostis/diff-match-patch.git   |
+| commit  | 702604b  |
+| systems | diff-match-patch |
+|---------+-------------------------------------------|
+
